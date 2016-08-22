@@ -5,7 +5,7 @@
 [![Support for ZenHub](https://img.shields.io/badge/Support%20for-ZenHub-5e60ba.svg?style=flat-square)](https://github.com/tdoee/Tdoee-Two/#boards)
 [![Gitter](https://img.shields.io/gitter/room/tdoee/Tdoee-Two.svg?maxAge=2592000&style=flat-square)](https://gitter.im/tdoee/Tdoee-Two)
 [![Bountysource](https://img.shields.io/bountysource/team/tdoee/activity.svg?maxAge=2592000&style=flat-square)](https://www.bountysource.com/teams/tdoee)
-[![provided by tdoee.com](https://img.shields.io/badge/Provided%20by-tdoee.com-brightgreen.svg?maxAge=2592000&style=flat-square)](http://tdoee.com)
+[![provided by tdoee.com](https://img.shields.io/badge/Provided%20by-tdoee.com-33cc00.svg?maxAge=2592000&style=flat-square)](http://tdoee.com)
 
 [Tdoee Two](https://github.com/tdoee/Tdoee-Two) es el repositorio para unir todas la ideas que formaran la plataforma de [tdoee.com](http://tdoee.com)
 
