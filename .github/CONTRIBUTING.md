@@ -4,4 +4,7 @@
   </a>
 </div>
 
-[**Issues**]()  
+Gracias por contribuir con {{.RepoName}}!
+
+[**Problemas**]()
+
