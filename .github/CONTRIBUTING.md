@@ -7,7 +7,9 @@
 [**Problemas**](#problemas) | [**Sugerencias**](#sugerencias)
 
 # Contribuciones
-Gracias por contribuir con tdoee, tus contribuciones serán agregadas con el tiempo. y bienvenido :v:
+Gracias por contribuir con tdoee, tus contribuciones serán agregadas con el tiempo. y bienvenido :v:.
+
+Ademas puedes usar [gitter](https://gitter.im/tdoee/Tdoee-Two) para que estemos en contacto.
 
 ## Problemas
 Por favor [agrega un nuevo problema](https://github.com/tdoee/Tdoee-Two/issues/new) cuantos quieras. No te preocupes por pensar que no es nada muy grabe todos los problemas se pueden solucionar :smile:, pero recuerda los siguientes consejos.
