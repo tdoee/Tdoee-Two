@@ -10,7 +10,7 @@
 
 > Abrimos este repositorio para permitir colaborar y llevar un seguimiento sobre todos los procesos en los que aplicamos para construir tdoee.com. Ademas de permitir a todos los usuarios que nos apoyen con sus ideas.
 >
-> Claro que abra información que no podremos compartir con la comunidad, pero queremos crear una plataforma echa para los usuarios, y la mejor manera que encontramos para ello es permitiendo a nuestros usuarios interactuara y construir lo que desean tener en ella. &#150;Reiterando la idea de lo que sea&#150; claro que no sera la unima forma de hacer esto pero es una forma de empezar. 
+> Claro que abra información que no podremos compartir con la comunidad, pero queremos crear una plataforma echa para los usuarios, y la mejor manera que encontramos para ello es permitiendo a nuestros usuarios interactuara y construir lo que desean tener en ella. &#151;Reiterando la idea de lo que sea&#151; claro que no sera la unima forma de hacer esto pero es una forma de empezar. 
 >
 > &#151; [Jonathan Delgado](https://jon.soy).
 
