@@ -6,7 +6,7 @@
 
 Gracias por contribuir con tdoee, tus contribuciones serán agregadas con el tiempo. y bienvenido :v:
 
-[**Problemas**]()
+[**Problemas**](#problemas)
 
 ## Problemas
 
