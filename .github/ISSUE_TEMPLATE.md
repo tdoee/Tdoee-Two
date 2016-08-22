@@ -9,4 +9,4 @@ Tengo problemas con...
 
 ### Problemas a solucionar
 
-- [ ] (Ejemplo. esto)
+- [ ] \(Ejemplo. esto)
