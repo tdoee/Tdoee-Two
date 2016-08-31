@@ -1,6 +1,6 @@
 <div align="center">
   <a href="//github.com/tdoee/Tdoee-Two">
-    <img src="../assets/images/tdoee-prot-2.png">
+    <img src="./assets/images/tdoee-prot-2.png">
   </a>
 </div>
 
