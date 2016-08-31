@@ -1,3 +1,8 @@
+<!--
+********************************************************
+** ESTO ES UN EJEMPLO                                           **
+********************************************************
+
 Tengo problemas con...
 
 ### Ambiente
@@ -10,3 +15,4 @@ Tengo problemas con...
 ### Problemas a solucionar
 
 - [ ] \(Ejemplo. esto)
+-->
