@@ -6,7 +6,7 @@
 
 [**Problemas**](#problemas) | [**Sugerencias**](#sugerencias)
 
-# Contribuciones
+# Contribuciones para tdoee.com
 Gracias por contribuir con tdoee, tus contribuciones serán agregadas con el tiempo. y bienvenido :v:.
 
 Ademas puedes usar [gitter](https://gitter.im/tdoee/Tdoee-Two) para que estemos en contacto.
