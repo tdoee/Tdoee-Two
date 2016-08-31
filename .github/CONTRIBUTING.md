@@ -11,9 +11,10 @@ Gracias por contribuir con tdoee, tus contribuciones serán agregadas con el tie
 
 Ademas puedes usar [gitter](https://gitter.im/tdoee/Tdoee-Two) para que estemos en contacto.
 
-## Problemas
+## Problemas (issues)
 Por favor [agrega un nuevo problema](https://github.com/tdoee/Tdoee-Two/issues/new) cuantos quieras. No te preocupes por pensar que no es nada muy grabe todos los problemas se pueden solucionar :smile:, pero recuerda los siguientes consejos.
 
+ - Revisa previamente si existe un [problema relacionado](https://github.com/tdoee/Tdoee-Two/issues)
  - Describe lo que mas puedas el problema y como generarlo.
  - Evita usar datos personales, mas aya de tu nombre de usuario (Si se tiene).
  - Usa un [screenshot](http://www.take-a-screenshot.org/) si puedes.
